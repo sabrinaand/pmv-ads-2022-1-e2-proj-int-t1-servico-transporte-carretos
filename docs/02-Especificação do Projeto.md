@@ -95,4 +95,3 @@ Bonecos palito representam os atores no processo(ex- Cliente, Administrador), e 
 
 Quanto aos casos de uso, eles devem representar as interações dos atores com o sistema, cada tipo é representado por uma forma oval rotulada e as relações são indicadas por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso devem representar verbos no infinitivo de acordo com os objetos que se relacionam os verbos (ex- Efetuar login, Visualizar perfil). Os tipos de relacionamentos maus comuns são associações entre atores e casos de uso, generalização entre atores e entre casos de uso, inclusões e extensões entre casos de uso. 
 
-
